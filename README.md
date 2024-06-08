@@ -24,7 +24,12 @@
   <img src="https://img.shields.io/badge/typescript-007ACC.svg?style=flat-square&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/React%20Query-FF4154?style=flat-square&logo=react%20query&logoColor=white" />
   <img src="https://img.shields.io/badge/styled--components-DB7093?style=flat-square&logo=styled-components&logoColor=ffd35b" />
+  <img src="https://img.shields.io/badge/c-00599C.svg?style=flat-square&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/python-3776AB.svg?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/zustand-6B4E71?style=flat-square&logo=Zustand&logoColor=white&logoWidth=20&logo=https://raw.githubusercontent.com/pmndrs/zustand/main/logo.png" />
 </div>
+
+
 
 <br>
 
