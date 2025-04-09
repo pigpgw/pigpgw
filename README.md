@@ -1,41 +1,33 @@
-<h3>📫 Contact 📫</h3>
-<div>
-  <a href="https://velog.io/@pigpgw/posts">
-    <img src="https://img.shields.io/badge/Velog-1EBC8F?style=flat-square&logo=velog&logoColor=white" />
-  </a>
-  <img src="https://img.shields.io/badge/ceh20002@naver.com-D14836?style=flat-square&logo=gmail&logoColor=white" />
-</div>
+<h2 align="center">🚀 Geowoo Park's GitHub Profile 🚀</h2>
 
-<h3>✨ Tech Stack ✨</h3>
-<div>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/react-20232a.svg?style=flat-square&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=flat-square&logo=javascript&logoColor=20232a" />
-  <img src="https://img.shields.io/badge/typescript-3178C6.svg?style=flat-square&logo=typescript&logoColor=white" />
-</div>
+<p align="center">
+  Frontend Developer who loves solving problems and growing together.  
+  Building meaningful things
+</p>
 
-<br>
+---
 
-### 🌱 I’m currently studying ...
+## 📫 Contact
 
-<div>
-  <img src="https://img.shields.io/badge/typescript-007ACC.svg?style=flat-square&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React%20Query-FF4154?style=flat-square&logo=react%20query&logoColor=white" />
-  <img src="https://img.shields.io/badge/styled--components-DB7093?style=flat-square&logo=styled-components&logoColor=ffd35b" />
-  <img src="https://img.shields.io/badge/c-00599C.svg?style=flat-square&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/python-3776AB.svg?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/zustand-6B4E71?style=flat-square&logo=Zustand&logoColor=white&logoWidth=20&logo=https://raw.githubusercontent.com/pmndrs/zustand/main/logo.png" />
-</div>
+- 📝 [Velog](https://velog.io/@pigpgw/posts) — 기술 블로그
+- 📧 ceh20002@naver.com — 이메일 연락
 
+---
 
+## 🚀 Currently Working On
 
-<br>
+- 🌟 [Eye On - Frontend](https://github.com/dev-4-team/eye-on-frontend) — 주변 시위 알리미 프로젝트
+- 🌟 [Smile Together](https://github.com/sgdevcamp2025/smiletogether) — 스마일 게이트 윈터 데브 프로젝트
 
-<h3>🛠 Tools 🛠</h3>
-<div>
-  <img src="https://img.shields.io/badge/git-F05033.svg?style=flat-square&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/github-181717.svg?style=flat-square&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=flat-square&logo=notion&logoColor=black" />
-  <img src="https://img.shields.io/badge/figma-F24E1E.svg?style=flat-square&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/VSCode-2C2C32.svg?style=flat-square&logo=visual-studio-code&logoColor=22ABF3" />
-</div>
+---
+
+## 🗂️ My TIL (Today I Learned)
+
+- 🔥 [Daily Dev Log](https://github.com/pigpgw/daily-dev-log) — 매일 나의 하루를 담은 일지
+
+---
+
+## ✨ Tech Stack
+
+**Frontend**
+- React, TypeScript, JavaScript, Styled-Components, React Query, Zustand, tailwindcss
