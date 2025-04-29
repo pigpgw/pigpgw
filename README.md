@@ -17,8 +17,6 @@
 ## 🚀 Currently Working On
 
 - 🌟 [Eye On - Frontend](https://github.com/dev-4-team/eye-on-frontend) — 주변 시위 알리미 프로젝트
-- 🌟 [Smile Together](https://github.com/sgdevcamp2025/smiletogether) — 스마일 게이트 윈터 데브 프로젝트
-
 ---
 
 ## 🗂️ My TIL (Today I Learned)
