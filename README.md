@@ -16,7 +16,7 @@
 
 ## 🚀 Currently Working On
 
-- 🌟 [Eye On - Frontend](https://github.com/dev-4-team/eye-on-frontend) — 주변 시위 알리미 프로젝트
+- 🌟 [making my portfolio service](https://github.com/pigpgw/portfolio-cms)
 ---
 
 ## 🗂️ My TIL (Today I Learned)
