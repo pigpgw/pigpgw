@@ -3,9 +3,15 @@
 <p align="center">
   <a href="https://confused-dietician-c17.notion.site/826fb9dbe8734b55a76f3ed8c88f233a?source=copy_link"><img alt="Notion" height="18" src="https://www.google.com/s2/favicons?domain=notion.so&sz=64" style="vertical-align: -3px;" /> 노션(포트폴리오)</a>
   · <a href="https://github.com/pigpgw"><img alt="GitHub" height="18" src="https://www.google.com/s2/favicons?domain=github.com&sz=64" style="vertical-align: -3px;" /> GitHub</a>
-  · <a href="https://velog.io/@pigpgw/posts"><img alt="Velog" height="18" src="https://www.google.com/s2/favicons?domain=velog.io&sz=64" style="vertical-align: -3px;" /> 벨로그</a>
+· <a href="https://www.pigpgw.cloud">
+  <img 
+    alt="TechBlog" 
+    height="18" 
+    src="https://www.google.com/s2/favicons?domain=pigpgw.cloud&sz=64" 
+    style="vertical-align: -3px;" 
+  /> 블로그
+</a>
   · <a href="https://www.linkedin.com/in/geonwoopark"><img alt="LinkedIn" height="18" src="https://www.google.com/s2/favicons?domain=linkedin.com&sz=64" style="vertical-align: -3px;" /> 링크드인</a>
-  · <a href="https://www.instagram.com/pig_pgw/"><img alt="Instagram" height="18" src="https://www.google.com/s2/favicons?domain=instagram.com&sz=64" style="vertical-align: -3px;" /> 인스타그램</a>
   · <a href="mailto:ceh20002@naver.com"><img alt="Email" height="18" src="https://www.google.com/s2/favicons?domain=mail.google.com&sz=64" style="vertical-align: -3px;" /> 이메일</a>
 </p>
 
